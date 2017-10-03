@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidEatIt</string>
+    <string name="slogan">No matters where you are: Whether you are at home or in the office, or nor the beach, we will find you and we will feed you</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+</resources>
